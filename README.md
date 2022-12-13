@@ -1,5 +1,6 @@
 # xps-9570-macOS-Ventura
 
+<img width="516" alt="iShot_2022-12-13_16 11 53" src="https://user-images.githubusercontent.com/20842481/207261473-9b94f217-0f9c-42e9-85ed-2b995495ba03.png">
 
 ## Configuration
 
