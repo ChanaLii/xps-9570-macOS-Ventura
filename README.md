@@ -3,7 +3,7 @@
 
 ## Configuration
 
-| Model     | XPS15-9570/MacBookPro15,1    | macOS Version        | 13.0.1 (22A400)         |
+| Model     | XPS15-9570/MacBookPro 15-inch| macOS Version        | Ventura 13.0.1 (22A400)         |
 | :-------- | :--------------------------- | :------------- | :------------------ |
 | Processor | Intel Core i5-8300H | Graphics       | Intel UHD Graphics 630 2048 MB   |
 | Memory    | Crucial 2667MHz DDR4 16GB x2   | Storage        | WDC WDS500G1BOC-00S6U0 500GB |
@@ -14,3 +14,8 @@
 
 - Thunderbolt
 - Fingerprint
+
+### Working
+
+- Airdrop
+- Touchboard
